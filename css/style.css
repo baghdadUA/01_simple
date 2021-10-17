@@ -1,0 +1,22 @@
+.container{
+    max-width: 1020px;
+    margin: 0 auto;
+    text-align: center;
+}
+.header{
+    background: #a52a2a;
+    color: #fff;
+}
+.container i {
+    color: blue;
+}
+.imageCars img{
+    border: 4px dashed black;
+}
+.container span{
+    color: blue;
+}
+.footer{
+    background: #000;
+    color: #fff;
+}
